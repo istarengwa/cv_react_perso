@@ -1,4 +1,4 @@
 [ZoneTransfer]
-ZoneId=1
-ReferrerUrl=vscode-file://vscode-app/c:/Users/Shadow/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/workbench/workbench.html
-HostUrl=file://wsl%24/Ubuntu-20.04/home/limulle/Heregade/site01_front/src/components/Main/Logo/Heregade.png
+ZoneId=3
+ReferrerUrl=https://www.canva.com/
+HostUrl=https://export-download.canva.com/baFfA/DAFBhtbaFfA/22/0/0001-26864048819.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20220522%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220522T173009Z&X-Amz-Expires=84826&X-Amz-Signature=24f520cdf5c2ce9e661353692bd1ca815f7a72d82869b035778e790eebf9af08&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27HEREGADE.png&response-expires=Mon%2C%2023%20May%202022%2017%3A03%3A55%20GMT
