@@ -1,5 +1,7 @@
 import React from "react";
-import logo from "./Heregade.png"
+import logo from "./cvtest3.png";
+import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+import { Carousel } from 'react-responsive-carousel';
 // base of code : https://codepen.io/beno1t/pen/drvjQy
 
 export default function Logo() {
@@ -26,11 +28,29 @@ export default function Logo() {
           clearTimeout(id);
       };
 
+  // return (
+  //   <div>
+  //     <canvas id='canvas'></canvas>
+  //   </div>
+  // )
   return (
+    
     <div>
       <canvas id='canvas'></canvas>
+    
+    {/* <Carousel>
+        <div>
+          <canvas id='canvas'></canvas>
+        </div>
+        <div>
+          <canvas id='canvas'></canvas>
+        </div>
+        <div>
+          <canvas id='canvas'></canvas>
+        </div>
+    </Carousel> */}
     </div>
-  )
+  );
 };
 
 var Nodes = {
